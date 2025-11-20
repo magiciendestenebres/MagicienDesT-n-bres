@@ -1,9 +1,8 @@
 
 
-#  MagicienDesTénèbres
 
 Étudiant en BTS SIO option SISR, passionné par l’administration système, les infrastructures et l’automatisation.  
-Je construis, j'apprends, je documente et j'améliore continuellement mes compétences dans l’écosystème IT.
+Je construis, j'apprends, je documente et j'améliore continuellement mes compétences dans les environnements IT.
 
 ---
 
@@ -33,22 +32,10 @@ Proxmox, Hyper-V, VirtualBox, Docker (bases)
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=magiciendestenebres&show_icons=true&theme=transparent" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magiciendestenebres&layout=compact&theme=transparent" height="150" />
-</p>
 
 ---
 
-##  Contact
+##  Contacts
 
 Discord : magiciendestenebres  
 Portfolio : https://sio.campus-sfls.fr/PROMO%202527/YIM
-
----
-
-##  Objectifs actuels
-
-- Monter en compétence en systèmes et réseau  
-- Automatiser davantage mes workflows    
-- Préparer la poursuite d’études en système & cloud
